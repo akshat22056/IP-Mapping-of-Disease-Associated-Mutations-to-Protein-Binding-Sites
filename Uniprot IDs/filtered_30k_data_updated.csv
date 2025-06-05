@@ -1,0 +1,924 @@
+UniProt_ID,Gene,p_name
+Not found,-,p.Gln111Ter | p.Val11fs
+P49588,AARS1,p.Gly426fs | p.Phe534fs | p.Thr668fs | p.Val218fs
+Q5JTZ9,AARS2,p.Arg322Cys | p.Arg521Ter | p.Gln962Ter | p.Thr871fs
+Q9UDR5,AASS,p.Arg65Gln | p.Cys534_Glu537delinsTer
+Q86UK0,ABCA12,p.Gln414Ter | p.Gln592Ter | p.Lys769fs | p.Lys986fs | p.Val247fs
+Q9BZC7,ABCA2,p.Arg1513fs
+Q99758,ABCA3,p.His904fs | p.Ile1117fs | p.Thr586fs
+P78363,ABCA4,p.Trp126Ter | p.Tyr345_Phe348del
+P08183,ABCB1,p.Gly185Val
+Q9NP58,ABCB6,p.Arg723Gln | p.Gly579Glu
+O75027,ABCB7,p.Gly683Ser | p.Ile401Met
+Q09428,ABCC8,p.Asn32Lys | p.Phe559Ter | p.Pro317fs
+A0A1B0GV31,ABHD14A-ACY1,p.Ala124fs | p.Pro369fs
+O95870,ABHD16A,p.Arg457Gln
+Q13085,ACACA,p.Arg2161Trp
+Q9H845,ACAD9,p.Leu494fs | p.Leu606fs | p.Ser395fs
+P11310,ACADM,p.Ala288fs | p.Lys389fs | p.Thr174fs | p.Tyr352Ter
+P16112,ACAN,p.Arg315fs | p.Glu915fs | p.Leu450fs | p.Trp615Ter
+Q9NUN7,ACER3,p.Arg203Ter
+Q99798,ACO2,p.Asp611fs | p.Leu381fs | p.Ser237fs | p.Tyr472Ter
+Q9BZG2,ACP4,p.Pro249Leu
+Q4G176,ACSF3,p.Glu135delinsThrSerTrpProSerGlyArgHisGlyTer | p.Glu135fs | p.Gly407Arg
+P60709,ACTB,p.Gln360fs | p.Gly146Ser | p.Gly48fs | p.Met123Val | p.Met47Ile | p.Ser368fs | p.Val159fs
+Q08043,ACTN3,p.Arg577Ter
+Q9NZK5,ADA2,p.Asn53fs | p.Asp213_Tyr215del | p.Gly142Ala | p.His91fs | p.Ser242fs | p.Tyr112fs
+O14672,ADAM10,p.Ser504Asn
+Not found,ADAMTS19-AS1,p.Ser91fs
+Q9UEY8,ADD3,p.Asn29Ser
+Q8IWK6,ADGRA3,p.Ser835Cys
+Q9H2P0,ADNP,p.Arg646fs | p.Asn398Ter | p.Leu28fs | p.Met828fs
+Q8N142,ADSS1,p.Arg233Ter | p.Asp261Asn | p.Leu364Pro | p.Lys78fs
+P20933,AGA,p.Asn170fs | p.Asp70fs | p.Lys4fs
+P01019,AGT,p.Gln354Ter
+P21549,AGXT,p.Asp254fs | p.Glu378fs | p.Ser223fs | p.Trp332fs
+O95831,AIFM1,p.Arg422Trp | p.Asp237Val
+Q12904,AIMP1,p.Arg49Gly | p.Ser30fs
+Q9NZN9,AIPL1,p.His260fs | p.Trp72Ter | p.Val290fs
+O43918,AIRE,p.Arg257fs | p.Asp514fs | p.Gln290Ter | p.Leu7_Val38del | p.Ser324fs
+P52895,AKR1C2,p.His222Gln
+P05091,ALDH2,p.Glu504Lys
+P30038,ALDH4A1,p.Gly521fs
+P49419,ALDH7A1,p.Arg79fs | p.Asp511Asn | p.Gly509fs | p.Trp99Ter
+P04075,ALDOA,p.Asp129Gly
+P05062,ALDOB,p.Cys135Arg | p.Tyr214Ter
+Q9BV10,ALG12,p.Arg311fs | p.Glu168Ter | p.Leu12fs | p.Trp174Cys | p.Tyr230fs | p.Tyr55Ter
+Q9Y673,ALG5,p.Ala2Glu
+Q8TCU4,ALMS1,p.Arg4134Gly | p.Gln4008fs | p.Lys4068Ter | p.Lys4132Gln | p.Phe3910fs | p.Thr3770fs
+Q9BYJ1,ALOXE3,p.Cys109Ter | p.Trp388Cys | p.Tyr443Ter
+Q96L96,ALPK3,p.Arg1052fs | p.Arg1197fs | p.Gln1258Ter | p.Gln890Ter
+P05186,ALPL,p.Cys489Ser | p.Glu311fs | p.Gly420Asp | p.Gly420fs | p.His454fs | p.Thr405fs
+Q15699,ALX1,
+Q9H161,ALX4,p.Arg265Ter | p.Arg272Pro | p.Cys129fs | p.Gln98fs | p.Ser207Leu
+Q9BXJ7,AMN,p.Arg388fs | p.Cys223Ter | p.Gly196fs
+P16157,ANK1,p.Arg1682Ter | p.Thr14fs
+Q12955,ANK3,p.Leu286fs | p.Lys2864Asn
+Q9HCJ1,ANKH,p.Glu490del | p.Leu334Arg
+Q10567,AP1B1,p.Arg108Trp | p.Leu779fs
+Q9Y587,AP4S1,p.Glu77Lys
+Q9UBZ4,APEX2,p.Met567fs
+Not found,APOA1-AS,p.Gln108Ter | p.Leu227fs | p.Pro189Arg | p.Val180Ala
+P06727,APOA4,p.Gln380His
+P04114,APOB,p.Asn2654fs | p.Gln2382Ter | p.Glu1116fs | p.Lys2110fs | p.Lys3097fs
+Q9BUR5,APOO,p.Ile117Thr
+P05067,APP,p.Ala713Thr | p.Glu693Gln | p.Leu705Val | p.Thr714Ala | p.Thr714Ile
+P55087,AQP4,p.Ala215Ser
+P55064,AQP5,p.Ala38Glu | p.Arg188Cys
+A0A7L8Y648,AQP5-AS1,p.Ala38Glu | p.Ile177Val | p.Ile45Ser | p.Phe88fs | p.Ser261Ter
+Q6ZSZ5,ARHGEF18,p.Arg508Gly | p.Ile184fs
+Q8NFD5,ARID1B,p.Ala470fs | p.Asn2143fs | p.Gln577Lys | p.Glu1928fs | p.Leu2116fs | p.Met2265fs | p.Pro2174fs | p.Ser2296fs
+Q3SXY8,ARL13B,p.Arg79Gln | p.Asn204fs | p.Gln151Ter | p.Gly75Arg | p.Lys73Glu
+Q5T9G4,ARMC12,p.Cys256Tyr
+Q96C12,ARMC5,p.Arg267Gly | p.Arg364Ter | p.Gln86Glu | p.Leu771fs
+H2R292,ARMCX5-GPRASP2,p.Ala573Asn
+O15143,ARPC1B,p.Glu108fs | p.Glu300fs
+Q8NBU5,ATAD1,
+P18850,ATF6,p.Ala386fs | p.Gln237Ter | p.Ser16Ter | p.Ser446Ter | p.Tyr567Asn | p.Val371fs
+P50993,ATP1A2,p.Ala824_Glu825insTer | p.Arg834Gln | p.Glu760fs | p.Pro331Ala
+P13637,ATP1A3,p.Ile363Thr | p.Val885fs
+P48201,ATP5MC3,p.Pro107Ser
+Q15904,ATP6AP1,p.Leu74Pro | p.Met428Ile
+O75787,ATP6AP2,
+Q9HBG4,ATP6V0A4,p.Arg663fs | p.Asn113fs | p.Glu797fs | p.Met259fs | p.Thr277fs
+P15313,ATP6V1B1,p.Arg124fs | p.Phe468fs | p.Val83fs
+O75110,ATP9A,
+Not found,ATRIP-TREX1,p.Ser82fs
+P01185,AVP,p.Gly48Val | p.Gly54Arg | p.Tyr21Asp
+Q9Y2T1,AXIN2,p.Leu62fs | p.Lys242fs
+Q00973,B4GALNT1,p.Asp478fs | p.Gln221Ter | p.Ser171Phe
+O43505,B4GAT1,p.Asn390Asp
+O95817,BAG3,p.Gln132Ter | p.Ile339fs | p.Thr47fs | p.Tyr240Ter | p.Val54fs
+Q9UL15,BAG5,p.Thr37fs
+A8MTZ0,BBIP1,p.Gln37Ter
+Q3V079,BBOF1,p.Pro421Ser
+Q8NFJ9,BBS1,p.Glu549fs | p.Leu231fs | p.Leu478fs | p.Pro120_Tyr121insAlaGlyArgGlyGlySerArgLeuTer | p.Tyr467Ter
+Q3SYG4,BBS9,p.Glu813fs | p.Lys492Ter
+P51572,BCAP31,p.Ala241fs | p.Arg231fs | p.Pro84Leu | p.Thr91fs | p.Tyr33Ter
+O14874,BCKDK,p.Arg156Gly | p.Gln387Ter
+Q9H165,BCL11A,p.Asp545fs | p.His292fs | p.His788Tyr | p.Leu12Ter | p.Leu77Ter
+Q9C0K0,BCL11B,p.Gly640fs | p.Leu869fs | p.Lys425fs | p.Lys591fs
+O76090,BEST1,p.Asn133fs | p.Glu306Gln | p.Ile76Asn | p.Ser164Ter | p.Val242Met
+P21810,BGN,p.Asn148fs | p.Gly259Asp
+Q7RTU4,BHLHA9,p.Arg75His
+A1A5D9,BICDL2,p.Gly275Asp
+Q8WV28,BLNK,
+P13497,BMP1,p.Lys704fs
+P18075,BMP7,p.His153fs
+Q8N8U9,BMPER,p.Ala9fs | p.Pro370Leu | p.Val550fs
+O00238,BMPR1B,p.Arg486Gln | p.Arg486Trp | p.Ile200Lys | p.Trp219Ter
+P15056,BRAF,p.Leu525Arg | p.Phe595Leu
+P38398,BRCA1,p.Asn13fs | p.Leu87fs | p.Leu99fs | p.Phe46_Cys47delinsTer | p.Ser59fs | p.Ser76fs | p.Val11fs
+Q8NE79,BVES,p.Arg88Ter
+Q8N999,C12orf29,p.Asn2430fs | p.Gln2391fs | p.Lys2384_Ile2385insTer | p.Tyr2431Ter
+Q8N1H7,C14orf39,p.Leu37Pro
+Q9NSK7,C19orf12,p.Gly54Val | p.Met65fs
+Q07021,C1QBP,p.Cys186Ser | p.Gly247Trp | p.Leu275Pro
+Q9BV19,C1orf50,p.Gln78fs | p.Glu139fs | p.Ser131Leu
+P0C0L4,C4A,p.Val1233fs
+P01031,C5,p.Glu1413fs | p.Leu1625fs | p.Met596fs | p.Tyr23Ter
+P13671,C6,p.Asn808fs | p.Cys127Ter | p.Phe299fs | p.Tyr451Ter
+P07357,C8A,p.Ala360fs | p.Arg189Ter | p.Gln165Ter | p.Tyr210Ter
+P02748,C9,p.Glu300Ter | p.Gly397Ter | p.Ser263fs | p.Tyr193fs
+P00918,CA2,p.Glu204Lys | p.Lys18Gln | p.Pro236His | p.Tyr40Ter
+O00555,CACNA1A,p.Ala19fs | p.Gln413Ter | p.Leu324fs
+Q13554,CAMK2B,p.Glu237Lys
+Q13557,CAMK2D,p.Phe294Ser
+Q14790,CASP8,p.Gln244Lys | p.Gln346fs | p.Tyr310Ter | p.Val427fs
+Q13951,CBFB,p.Arg83Gly
+Q9P2K1,CC2D2A,p.Arg1180Ter | p.Gln1553fs | p.Glu1245fs | p.Glu1570Ter
+Q96MF4,CCDC140,p.Arg97fs | p.Gln40Ter | p.Ser73Leu
+Q8IYE0,CCDC146,p.Arg362Gly
+Q9P219,CCDC88C,p.Glu1186fs | p.Gly1015Ter | p.Lys1419fs | p.Ser474fs
+P20248,CCNA2,p.Thr401fs
+P30279,CCND2,p.Pro281Thr
+P30281,CCND3,
+O00590,CCR10,p.Tyr23Ter
+P41597,CCR2,p.Leu119Pro | p.Met61Thr
+P20963,CD247,p.Gln70Leu | p.Gln70Tyr
+P26842,CD27,p.Arg107Ser | p.Ser89fs
+P01730,CD4,p.Met1Val
+P29965,CD40LG,p.Gln232Ter | p.Leu100Ter | p.Phe253fs | p.Thr15fs
+P08174,CD55,p.Arg170Ter | p.Glu50fs | p.Glu57Lys
+O75419,CDC45,p.Gln427Ter
+Q96GN5,CDCA7L,p.Lys4473fs
+Q9H251,CDH23,p.Arg2815fs | p.Asn393fs | p.Asp2822fs | p.Trp2367Ter | p.Val2737fs
+Q96JP9,CDHR1,p.Asn347fs | p.Leu566fs | p.Lys556fs | p.Pro25fs | p.Trp652fs
+Q14004,CDK13,p.Arg301fs | p.Glu595Gln
+P46527,CDKN1B,p.Arg43fs | p.Asn124Ter | p.Asn3fs | p.Asp127fs | p.Pro92fs | p.Trp60Ter | p.Val109fs
+P49918,CDKN1C,p.Ala110fs | p.Arg281_Ser282insTer | p.Pro192fs | p.Val25fs
+O15078,CEP290,p.Leu388Ter | p.Lys122fs
+Q86XR8,CEP57,p.Arg81Gly
+P27918,CFP,p.Tyr414Asp
+P15882,CHN1,p.Leu20Phe
+Q9BU40,CHRDL1,p.Ser173fs
+P43681,CHRNA4,p.Leu291dup
+Q8NCH0,CHST14,p.Gln106fs | p.Phe190fs | p.Ser53fs | p.Ser54fs
+Q9GZX3,CHST6,p.Arg211Leu | p.Arg211Trp | p.Asp203Glu | p.Tyr110Cys | p.Val99fs
+Q8IYA6,CKAP2L,p.Met1Thr
+Q9UBD9,CLCF1,p.Cys16Arg
+P51793,CLCN4,p.Gly78Ser | p.Leu166fs | p.Trp356Ter
+P51798,CLCN7,p.Gly171fs | p.Ile685fs | p.Leu684fs | p.Val383fs
+Q9Y5I7,CLDN16,p.Arg79Gln | p.Gly157fs | p.Tyr207Ter | p.Val120fs
+O75503,CLN5,p.Asn255fs | p.Cys144fs | p.Ile207_Tyr208insTer | p.Tyr322fs
+Q5KU26,CLP1,p.Arg140His
+Q9H078,CLPB,p.Arg307Ter | p.Asp478fs | p.Pro427Leu
+Q16740,CLPP,p.Asp134fs | p.Pro164fs
+Q16281,CNGA3,p.Lys155fs | p.Pro372_Val373insTer | p.Ser37fs | p.Val307fs
+Q9UP83,COG5,p.Gln233Ter | p.Glu809Ter | p.Pro471fs
+Q8IZC6,COL27A1,p.Ala1631fs | p.Gln1263Ter | p.Gly1126fs | p.Leu622fs | p.Trp56Ter
+P02461,COL3A1,p.Gly1083Asp | p.Gly636fs | p.Gly891Arg | p.Trp1424Ter
+P29400,COL4A5,p.Asp1472fs | p.Gly1232fs | p.Tyr1535Ter
+P25067,COL8A2,p.Gln455Val
+Q14055,COL9A2,p.Gly559Ter | p.His573fs | p.Pro123fs | p.Pro303fs
+Q9Y6Z7,COLEC10,p.Arg9Ter
+Q96D53,COQ8B,p.Arg490Cys | p.Glu271Ter
+Q9Y6N1,COX11,p.Ala244Ser
+Q9H799,CPLANE1,p.Gln2979Ter | p.Glu1438Ter | p.Glu2032Ter | p.Gly2174fs
+P50416,CPT1A,p.Ile558fs | p.Trp219Cys
+Q5IJ48,CRB2,p.Arg1030fs | p.Phe779fs
+Q96SW2,CRBN,p.Arg419Ter
+P07315,CRYGC,p.Arg142fs | p.Trp157Cys
+P07333,CSF1R,p.Tyr561Ter
+P15509,CSF2RA,p.Arg199Ter | p.Gln263Ter | p.Trp306Ter
+Q8TDX6,CSGALNACT1,p.Gln62Ter
+Q9Y5B0,CTDP1,
+P35222,CTNNB1,p.Asp695fs | p.Asp713fs | p.Pro706fs | p.Trp504fs | p.Val613fs | p.Val617fs
+O60931,CTNS,p.Gln264fs | p.Gln352Ter | p.Gly229fs | p.Ile69fs
+P53634,CTSC,p.Cys136fs | p.Leu7fs
+P43235,CTSK,p.Arg46fs | p.Trp29fs | p.Trp2Ter | p.Tyr201fs
+Q13618,CUL3,p.Arg158fs | p.Arg90Ter | p.Leu346fs | p.Met473fs
+Q14999,CUL7,p.Asp1638Ter | p.Gly910fs | p.Ser217fs | p.Tyr628fs
+Q13948,CUX1,p.Gln191Ter
+O14569,CYB561D2,p.Arg34Ter | p.Asp991Asn | p.Gly20fs | p.Leu974fs | p.Ser998fs
+P00387,CYB5R3,p.Arg84Ter | p.Gly292Asp | p.His118Tyr | p.Val253Leu
+Q96F07,CYFIP2,p.Ala455Pro
+P05108,CYP11A1,p.Arg120Ter | p.Arg451Trp | p.Glu208Ter | p.Leu376fs
+Q16678,CYP1B1,p.Ala330Phe | p.Gly61Arg | p.Ser476fs | p.Ser73fs
+Not found,CYP2U1-AS1,p.Arg50Gly | p.Leu21fs
+O75881,CYP7B1,p.Phe111fs
+Q86T65,DAAM2,p.Ser1027Leu
+Q9NYF0,DACT1,p.Trp419Ter
+Q9BTE1,DCTN5,p.Cys11Trp | p.Met1Arg
+P20711,DDC,p.Arg358Leu | p.Arg447His | p.Cys410Gly | p.Leu222Pro | p.Tyr369Ter
+Q9UHL0,DDX25,p.Arg377Ter
+Q96Q80,DERL3,p.Arg374Gln
+P00374,DHFR,p.Glu108Lys | p.Lys87fs | p.Thr31fs
+Q96HY7,DHTKD1,p.Glu27fs | p.His66_Gly67insTer | p.Tyr63fs
+O60610,DIAPH1,p.Arg1049Ter | p.Arg1071fs | p.Met1090fs | p.Phe923fs
+Q9UPY3,DICER1,p.Asn195fs | p.Asp283_Cys284insTer | p.Cys306fs | p.Leu297fs | p.Thr115fs
+Q5T7M9,DIPK1A,p.Arg24fs | p.Arg58fs | p.Ile173fs | p.Ile60fs
+Q8IYB7,DIS3L2,p.Arg263fs | p.Gln627fs | p.Trp468Ter
+O60832,DKC1,p.Gln31Lys | p.Leu72Tyr | p.Thr357Ala
+P10515,DLAT,p.Arg435Ter
+Q15334,DLG4,p.Asn369fs | p.Leu105fs | p.Leu178fs
+O00548,DLL1,p.Arg509Ter | p.Arg682fs | p.Cys77Ter | p.Glu673fs | p.His201fs | p.Pro51fs | p.Thr129fs
+Q99766,DMAC2L,
+P11532,DMD,p.Asp2370fs | p.Gln2317fs | p.Glu2279Ter
+Q13316,DMP1,p.Met1Val
+Q9NVR5,DNAAF2,p.Ala352fs | p.Gln438Ter | p.Glu387Ter | p.Glu636Ter | p.Leu78fs
+Q8N9W5,DNAAF3,p.Ala446fs | p.Gln467fs | p.Leu95fs | p.Ser101fs
+Not found,DNAAF3-AS1,p.Gln348Ter | p.Phe332_Ala336del
+Q8WXU2,DNAAF4,p.Ala119fs | p.Ile195_Lys196insTer
+Q86Y56,DNAAF5,p.Arg253Ter | p.Gly271fs
+Q9P2D7,DNAH1,p.Gln2448fs | p.Lys3795Ter
+Q9UFH2,DNAH17,p.Arg1903Cys
+Q8WXX0,DNAH7,p.Lys826fs
+Q9NYC9,DNAH9,p.Ala3288fs | p.Asn780fs | p.Gln1478Ter
+O75190,DNAJB6,p.Phe91Leu
+Q9UKB3,DNAJC12,p.Gln162Ter | p.Gln29fs
+Q96LL9,DNAJC30,p.Pro78Ser | p.Ser44fs
+Q13609,DNASE1L3,p.Asp148fs | p.Ile165fs
+Q7L591,DOK3,p.Glu426fs
+Q9P2X0,DPM3,p.Arg90fs | p.Pro72Ser
+Q02413,DSG1,p.Arg45Gly | p.Cys58Ter | p.Thr174fs
+Not found,DSG1-AS1,p.Arg289Ter | p.Cys255fs | p.Ser192Thr
+Q14126,DSG2,p.Asp304_Ser314delinsGluIleGlyTrpGlnIleLeuHisLeuLysTer | p.Glu121Ter | p.Glu852Lys | p.Ile353fs | p.Trp657Ter
+P32926,DSG3,p.Arg287Ter
+P15924,DSP,p.Gln2211Ter | p.Gln2672fs | p.Thr2555fs | p.Tyr2029fs
+P33316,DUT,p.Tyr54Cys
+O14640,DVL1,p.His502fs | p.Pro521fs | p.Ser553fs | p.Tyr377Ter
+Q7RTS9,DYM,p.Arg533Ter | p.Asp408fs | p.Phe41fs | p.Val647fs
+Q8WW35,DYNLT2B,
+O75923,DYSF,p.Gln1775Ter | p.Gln1909fs | p.Tyr1618fs
+Q5JPH6,EARS2,p.Gln414Ter | p.Gly317Cys | p.Phe71fs
+O95672,ECEL1,
+Not found,EDNRB-AS1,p.Arg201Ter | p.Arg253Ter | p.Cys174fs
+Q7Z2Z2,EFL1,p.Arg669Ter
+P00533,EGFR,p.His773delinsAsnProTyr | p.Leu907Ter | p.Lys294fs | p.Thr854Lys
+Q9NZJ5,EIF2AK3,p.Ala30fs | p.Leu646fs | p.Lys564_Tyr565insTer | p.Ser849fs
+P49770,EIF2B2,p.Arg185fs | p.Glu304Lys | p.Ile190fs | p.Pro291Ser | p.Val85Glu
+Q14240,EIF4A2,p.Arg62fs | p.Gly364Glu
+O04211,ELF4,p.Ala339fs
+O95163,ELP1,p.Arg405fs | p.Ser249Leu | p.Trp200Ter
+Q6IA86,ELP2,p.Thr555Pro
+Q96EB1,ELP4,p.Trp418fs
+A4GXA9,EME2,p.Trp55Leu
+Q04743,EMX2,p.Gly136Glu
+Q05925,EN1,p.Ile107fs
+P13929,ENO3,p.Gly348fs
+Q5NDL2,EOGT,p.Arg293Gln | p.Gly359fs
+Q09472,EP300,p.Gln1843fs | p.Gly194fs | p.Phe37fs
+Q9HCE0,EPG5,p.Arg469fs | p.Arg786fs | p.Ile1165fs
+Q9H6S3,EPS8L2,p.Lys178fs | p.Ser339fs
+Q15303,ERBB4,p.Arg1275Trp
+Q56NI9,ESCO2,p.Leu144Ter | p.Ser295fs | p.Thr112fs
+Q9NQT5,EXOSC3,p.Gln105fs | p.Glu38fs | p.Leu141fs
+O95677,EYA4,p.Gln278Ter | p.Val75fs
+P00742,F10,p.Cys172fs | p.Gly289Arg | p.Ile271_Leu272insTer | p.Ser374Pro
+P12259,F5,p.Pro927fs | p.Ser1308fs | p.Ser1439fs | p.Tyr1550fs
+A6NFU0,FAM187A,p.Val93Ile
+Q14320,FAM50A,p.Ser396fs
+Q6ZRV2,FAM83H,p.Gln455Ter | p.Glu694Ter | p.Leu308fs | p.Tyr297Ter
+Q00597,FANCC,p.Ile114fs | p.Phe318fs | p.Ser57fs
+Q9NPI8,FANCF,p.Arg74fs | p.Gln130fs | p.Tyr109Ter
+Q9Y285,FARSA,p.Arg271Leu
+P48023,FASLG,p.Met158_Glu185del
+Q9NYY8,FASTKD2,p.Arg205Ter | p.Leu255Pro | p.Ser160fs
+Q6V0I7,FAT4,p.Thr2555fs | p.Thr2856fs | p.Trp3040Ter
+O00757,FBP2,p.Val115Met
+Q9UKA2,FBXL4,p.Gly356fs | p.Lys479fs | p.Trp329Ter | p.Tyr162Ter
+Q4G163,FBXO43,p.Gly664Val
+Q6P4F2,FDX2,p.Met1Leu
+Q86UX7,FERMT3,p.Glu534fs | p.Tyr272fs
+O43320,FGF16,p.Ser157Ter
+P11487,FGF3,p.Leu6Pro | p.Leu91fs | p.Val206fs
+P21802,FGFR2,p.Gly663Ala
+P02679,FGG,p.Met336Arg | p.Ser404Pro
+Q9NYL4,FKBP11,p.Asp93Asn
+P20930,FLG,p.Gly3021delinsSerGlyGlnTer | p.Ser2453Ter | p.Val3679fs
+Q9NZU0,FLRT3,p.Lys339Arg
+O00358,FOXE1,p.Leu49fs
+Q6ZUU3,FOXL2NB,p.Asp131fs | p.Leu75Phe | p.Pro284fs
+Q70Z53,FRA10AC1,p.Glu165del | p.Ser188fs
+Q86XX4,FRAS1,p.Leu1713fs | p.Lys2000fs | p.Ser1578fs | p.Tyr2562Ter
+Q5SZK8,FREM2,p.Glu2262Ter | p.His845fs | p.Ser1907fs | p.Tyr1409fs
+P23945,FSHR,p.Arg573Cys | p.Gln117Ter | p.Ser128Phe | p.Thr449Ile
+O75899,GABBR2,p.Ala707Thr
+Q75VX8,GAREM2,p.Ile512fs | p.Thr395fs
+P15976,GATA1,p.Asp42fs | p.Asp65fs | p.Leu41fs | p.Met1Ile | p.Tyr78fs | p.Val32fs
+P43694,GATA4,p.Arg284His | p.Trp228Cys
+P35557,GCK,p.His156fs | p.Leu164fs | p.Met37Arg | p.Ser174Leu | p.Thr168Ala | p.Val91Leu
+Q8N0V5,GCNT2,p.Arg228Gln | p.His254fs | p.Trp5Ter
+Q8TB36,GDAP1,p.Ala184fs | p.Gly10fs | p.Lys47fs
+Q6ZNW5,GDPGP1,p.Tyr32Ter
+P55789,GFER,p.Ala73fs | p.Arg194His
+Q99684,GFI1,p.Asn382Ser
+P10912,GHR,p.Ile146fs | p.Trp94Ter
+Q14691,GINS1,
+Q8TF64,GIPC3,p.Leu262Arg | p.Thr221Ile
+Q9Y6H8,GJA3,p.Ser380fs
+Not found,GJD2-DT,p.Ala323Val | p.Asp26Asn | p.Glu101Gln | p.Glu363Val | p.Pro166Ser | p.Pro72fs
+P16278,GLB1,p.Glu188Ter | p.Leu463fs | p.Lys383fs
+Q6ZMI3,GLDN,p.Arg414Ter | p.Ser327fs
+P08151,GLI1,p.Arg113Ter
+Q92990,GLMN,p.Asn393del | p.Glu52_Lys53insTer | p.Leu403Ter
+P23416,GLRA2,p.Arg153Gln | p.Arg350His
+P15104,GLUL,p.Leu139fs
+P30968,GNRHR,p.Arg139Leu | p.Asn10_Gln11delinsLysLys | p.Glu90Lys | p.Leu117Arg | p.Tyr211Ter | p.Tyr283His
+Q5T7V8,GORAB,
+Not found,GORAB-AS1,
+O14653,GOSR2,p.Arg101Ter | p.Gln88Ter | p.Gln88fs | p.Thr8fs
+P51654,GPC3,p.Asn446fs | p.Gln94fs | p.Tyr155fs | p.Tyr295Ter
+O75487,GPC4,p.Pro508fs
+Q9NQX3,GPHN,p.Ala403fs | p.Trp289_Arg295delinsTer | p.Tyr56Ter
+Q15743,GPR68,p.Phe129_Asn278del
+Q9C091,GREB1L,p.Arg1526Ter | p.Gln743fs | p.Leu1793Arg | p.Pro638fs
+O43424,GRID2,p.Arg710Trp | p.Thr649Ala
+Q12879,GRIN2A,p.Leu159fs
+O60443,GSDME,p.Arg261Ter
+Q9BX10,GTPBP2,p.Leu197fs | p.Ser3Leu
+Q02846,GUCY2D,p.Arg1040fs | p.Asp384fs | p.Glu837fs | p.Val148fs
+P54840,GYS2,p.Ala339Pro | p.Arg309Ter | p.Asn126fs | p.Gln183Ter | p.Phe155fs
+Q2M2T1,H2BC12,p.His76Arg
+P46952,HAAO,p.Arg15fs | p.Gly101Trp
+P81172,HAMP,p.Arg59Gln
+Q9UJM8,HAO1,p.Gly165Cys
+P12081,HARS1,p.Asp175Glu | p.Asp206Tyr | p.Asp364Tyr | p.Pro134Arg
+O00165,HAX1,p.Arg126fs | p.Arg29Ter | p.Ser128Ter
+P69905,HBA1,p.Met1Lys | p.Met33Lys | p.Thr40del | p.Trp15Ter
+Q9UL51,HCN2,p.Leu377His | p.Pro493Leu | p.Pro718_Pro721del | p.Ser126Trp
+Q14CZ8,HEPACAM,p.Arg100Ter | p.Arg92Trp | p.Asp211Asn
+O95714,HERC2,p.Asp4267Glu | p.Ile2325_Leu2326insTer | p.Pro594Leu
+Q30201,HFE,p.Leu209fs | p.Lys254Glu
+Q93099,HGD,p.Asp18Tyr | p.Cys120fs | p.Gln33Arg | p.Trp60Cys | p.Trp97Gly | p.Tyr62Asn
+P49773,HINT1,p.Gly93Val | p.His51Arg
+P31629,HIVEP2,p.Gln1157Ter | p.Gln1509Ter | p.Leu1946fs | p.Ser1933Ter | p.Thr1931fs
+P08397,HMBS,p.Asn171fs | p.Gly24fs
+P09601,HMOX1,p.Gln218Glu | p.Lys204Glu | p.Pro76fs
+P35680,HNF1B,p.Glu94fs | p.Leu34fs | p.Lys123_Met124insTer | p.Ser7fs
+P41235,HNF4A,p.Arg140Ter
+Q00839,HNRNPU,p.Gln589fs | p.Glu375fs | p.Gly82fs | p.Lys243fs
+O43364,HOXA2,p.Gln186Ter
+P15428,HPGD,p.Ala41fs | p.Met1Leu | p.Ser193Pro
+Q7LGA3,HS2ST1,p.Asp165Tyr | p.Phe20_Ala21delinsTer
+P37058,HSD17B3,p.Asn74Ser | p.Glu93Ter | p.Gly186_Ile187insTer | p.Ile244fs
+Q16082,HSPB2,p.Arg12Cys | p.Met1Thr | p.Pro20Ser
+P41252,IARS1,p.Arg418Ter | p.Gln918Ter | p.Glu642Ter | p.Leu703fs | p.Tyr71Ter
+Q9NSE4,IARS2,p.Gly874Arg | p.Tyr117Ter
+P35475,IDUA,p.Cys241Ter | p.Gln587Glu
+Q9BYX4,IFIH1,p.Ala489Thr | p.Gln580Ter | p.Ile956Val | p.Leu979Trp
+P48551,IFNAR2,p.Met132fs
+P15260,IFNGR1,p.Ser149Leu | p.Trp224Cys | p.Trp99_Val102del | p.Val159fs
+Q9HBG6,IFT122,p.Glu706fs | p.Ter1293Trp
+Q9UG01,IFT172,p.Gln1548Ter | p.His921fs | p.Tyr368Ter
+Q9BW83,IFT27,p.Ser56fs | p.Tyr35Cys
+P01344,IGF2,p.Cys33Ter
+P38935,IGHMBP2,p.Arg943Ter | p.Leu626fs | p.Thr218fs | p.Val409fs
+Q14626,IL11RA,p.303TWS | p.Arg237Gly
+P29460,IL12B,p.Cys170Ter | p.Glu108fs
+Q96F46,IL17RA,p.Arg66Gly | p.Cys57fs | p.Gln284Ter | p.Ile78fs | p.Thr69fs
+P18510,IL1RN,p.Gln27Lys
+P08887,IL6R,p.Ile279Asn
+Q9BZV3,IMPG2,p.Gln64fs | p.Glu1033Ter | p.Ile14_Leu15insTer | p.Leu1150fs
+O15225,INE1,p.Ser547Gly
+Q9BT40,INPP5K,p.Asn417fs | p.Leu55Phe
+P01308,INS,p.Arg89Leu | p.Cys96Ser | p.Gly32Arg
+F8WCM5,INS-IGF2,p.Arg89Cys | p.Glu174fs | p.Gly34Cys | p.Met1Val | p.Tyr26Ter
+O77801,INSL3,p.Pro93Leu
+Q9H095,IQCG,p.Arg102Ter
+Q9NWZ3,IRAK4,p.Gln122Glu | p.Leu274fs | p.Phe94fs
+P48200,IREB2,p.Gly785Arg
+P08514,ITGA2B,p.Asn180fs | p.Asn33Asp | p.Gln113Ter | p.Gln519Ter | p.Gly224Arg
+P16144,ITGB4,p.Arg1522fs | p.Thr352fs | p.Trp1306Ter | p.Tyr1469fs
+O60674,JAK2,p.Val617Ile
+P52333,JAK3,p.Arg840_Tyr841insTer | p.Glu183fs | p.Gly427fs | p.Trp803Ter
+Q15652,JMJD1C,p.Pro109fs
+Q9BR39,JPH2,p.Ser165Phe
+O60303,KATNIP,p.Arg17Ter | p.Arg7Ter | p.Tyr1414fs
+Q09470,KCNA1,p.Asn255Asp | p.Ile262Thr | p.Val404Ile
+P16389,KCNA2,p.Arg300Ser | p.Ile258Asn | p.Thr374Ala
+P48547,KCNC1,p.Arg320His | p.Thr400Asn | p.Val432Met
+Q8NCM2,KCNH5,p.Arg333Leu
+P78508,KCNJ10,p.Arg65Pro | p.Cys140Arg | p.Gln126Ter | p.Trp79Ter | p.Val258_Val259insTer
+Q9H2S1,KCNN2,p.Gly583Glu | p.Ile571Met | p.Tyr372Ter
+Q96MP8,KCTD7,p.Gln130Glu | p.Leu44fs
+Q7LBC6,KDM3B,p.Arg943Gln | p.Glu93Ter
+P29375,KDM5A,
+Q9UGL1,KDM5B,p.Asp793fs | p.Asp943_Leu944insTer
+O15550,KDM6A,p.Ala389fs | p.Gly707fs | p.Lys242Ter | p.Trp1166Ter
+Q587J8,KHDC3L,p.Asp108fs
+Q9BVV6,KIAA0586,p.Asn362fs | p.Gln677Ter | p.Gln79Ter
+P52732,KIF11,p.Lys315fs | p.Ser576fs | p.Ser858Ter
+Q12756,KIF1A,p.Asp156Val | p.Ile271_Asn272del | p.Leu372Val | p.Thr556fs
+O43896,KIF1C,p.Ala828fs | p.Arg731Ter | p.Glu466fs
+P33176,KIF5B,p.Asn255del
+Q2M1P5,KIF7,p.Gln1132Ter | p.Gln488Ter | p.Ile119fs | p.Leu405fs
+Q969F8,KISS1R,p.Leu148Ser
+Q13351,KLF1,p.Gly176fs | p.His299Tyr | p.Leu326Arg
+Q8IXQ5,KLHL7,p.Leu293fs | p.Phe352fs | p.Tyr221Ter
+Q9UBX7,KLK11,p.Gly50Ter
+B2CW77,KLLN,p.Gly20fs | p.Ile5fs | p.Tyr16_Gln17delinsTer
+Q9UMN6,KMT2B,p.Asp1687fs | p.Asp2338fs | p.Ser980fs
+P01042,KNG1,p.Arg240Ter
+Q8NG31,KNL1,p.Ile1755fs
+O00505,KPNA3,p.Thr315Ile
+A9QM74,KPNA7,p.Leu450_Cys451insTer | p.Pro212Leu
+O00522,KRIT1,p.Asp318fs | p.Gln264fs | p.Gln272fs | p.His293fs | p.Ile42fs
+P13645,KRT10,p.Ala158Pro | p.Lys439Ter | p.Ser468fs
+P08779,KRT16,p.Ala415_Glu424delinsGlyGln | p.Asn125Asp | p.Met121Arg
+P13647,KRT5,p.Asp158Tyr | p.Glu455Ter | p.Tyr470His
+P35527,KRT9,p.Asn161Ile | p.Gln172Pro | p.Leu160Phe
+Q8C8H8,KY,p.Arg139Ter
+P32004,L1CAM,p.Cys404fs | p.Gly1213fs | p.Phe1123fs | p.Trp740Ter | p.Trp853Ter
+P25391,LAMA1,p.Cys1014Ter | p.Ile165fs | p.Leu1746fs | p.Pro2543fs | p.Ser1901fs
+Q9Y6N6,LAMC3,p.Cys327Ter | p.Gln1011fs | p.Gln1326Ter | p.Gly795fs | p.Pro700fs
+Not found,LARS2-AS1,p.Ile360fs
+P00338,LDHA,p.Leu254fs
+O15243,LEPR,p.Lys766Ter
+Q8N145,LGI3,p.Asp331His | p.Leu141His | p.Pro34fs
+Q8N135,LGI4,p.Met1Arg
+Q8TAF8,LHFPL5,p.Gly151Asp | p.Thr165Met | p.Trp132Ter
+O43766,LIAS,p.Arg73fs | p.Asn89fs | p.Leu132fs | p.Tyr161fs
+P49917,LIG4,p.Gln147fs | p.Gln280Arg | p.Glu76Ter | p.Lys521Ter | p.Met512_Lys513delinsIleTer | p.Val414_Ile415insTer
+Q05469,LIPE,p.Glu1035Ter
+O60663,LMX1B,p.Cys146Tyr | p.Cys59Arg | p.Gln317Ter | p.Gln87fs | p.Lys200fs
+Not found,LOC100289580,p.Arg808Leu | p.Cys262Ter | p.Glu752_Glu756del | p.Trp454Ter
+Not found,LOC101448202,p.Ile1611fs | p.Pro1565fs
+Not found,LOC101927055,p.Met1575fs
+Not found,LOC101927078,p.Leu600Val | p.Leu644Pro
+Not found,LOC101927157,p.Ile205fs
+Not found,LOC102724058,p.Glu1165delinsPhePhePhePhePhePheXaaXaaXaaXaaTyrGluIleSerSerHisThrSerTer | p.His1382Arg | p.Pro1160fs | p.Tyr1449Ter
+Q8IVV2,LOXHD1,p.Leu880fs | p.Met614_Arg615insTer | p.Thr297fs
+P58215,LOXL3,p.Leu14fs
+Q92539,LPIN2,p.Arg159Ter | p.Lys709Ter | p.Ser610fs | p.Thr180_Cys181insTer
+Q3SXY7,LRIT3,p.Arg440Ter | p.Leu20del
+P42704,LRPPRC,p.Gln658Ter | p.Gln684Ter | p.Lys704Ter | p.Tyr852fs
+Q8ND94,LRRN4CL,p.Arg275Ter | p.Arg390fs | p.Glu312Ter | p.Glu315Asp
+Q8WZ04,LRTOMT,p.Arg67Ter | p.Thr33fs
+P62310,LSM3,p.Glu15fs | p.Glu32Ter
+P48449,LSS,p.Gly12Val | p.Leu248Pro | p.Ser339Leu | p.Thr705Met | p.Trp629Cys
+Q8WZA0,LZIC,
+Q8N653,LZTR1,p.Ala686fs | p.His791fs | p.Leu740fs | p.Met723fs | p.Tyr752fs | p.Val803fs
+Q9Y586,MAB21L2,p.Tyr280Ter
+Q9Y6D9,MAD1L1,p.Tyr649Ter
+Q9UI95,MAD2L2,p.Val85Gly
+Q13495,MAMLD1,p.Glu132Gln | p.Glu197Ter
+Q9UKM7,MAN1B1,p.Glu58Lys | p.Gly413_Asp414insTer | p.Leu258fs | p.Leu81Ter | p.Ser409Pro
+P21397,MAOA,p.Arg45Trp | p.Ser251fs
+Q9NYL2,MAP3K20,p.Ser531Ter | p.Trp172Ter | p.Trp534Ter
+O43318,MAP3K7,p.Glu70Gln | p.Trp241Gly | p.Tyr206Asp | p.Val100Glu | p.Val50del
+Q8IW41,MAPKAPK5,p.Leu360fs
+P10636,MAPT,p.Asn296del | p.Pro364Thr | p.Val363Ile
+P56192,MARS1,p.Arg625Trp | p.Cys389Tyr | p.Gln302fs | p.Glu187fs | p.Ile523Thr
+P48740,MASP1,p.Ile347fs | p.Thr644Met
+P61244,MAX,p.Arg60Leu | p.Asp41fs | p.Gln19Ter | p.Ser42fs | p.Tyr73Ter
+Q9P267,MBD5,p.Gln967Ter | p.Glu1374Ter | p.Glu65fs | p.Ser550fs
+Q96RQ3,MCCC1,p.Val321fs
+D6RGH6,MCIDAS,p.Asn221fs | p.Lys46fs
+P33993,MCM7,p.Asp118fs
+Q9UJA3,MCM8,p.Leu491fs | p.Pro149Arg
+Q8NEM0,MCPH1,p.Cys435Ser | p.Leu160Ter | p.Thr42_Phe43insTer
+Q03112,MECOM,p.Arg938Trp
+Q9BV79,MECR,p.Gln151fs | p.Met288fs
+Q9NVC6,MED17,p.Cys363Ter | p.Gln262Glu | p.Glu58Ter | p.Leu526fs | p.Lys352Ter
+Q7Z7M0,MEGF8,p.Gly199Arg | p.Phe1625fs | p.Ser2367Gly
+Q5TIA1,MEI1,p.Ser334fs
+Q8N635,MEIOB,p.Leu403fs
+O00255,MEN1,p.Arg14fs | p.His139fs
+Q9NWH9,MET,p.His1094Pro | p.Met1131Lys
+Q10469,MGAT2,p.Gln31Ter
+Q8TDZ2,MICAL1,
+Q8IY33,MICALL2,p.Pro284Leu
+Q99797,MIP,p.Arg233Lys | p.Gly213fs
+Not found,MIR103B2,p.Ala214fs | p.Ile210Asn
+Not found,MIR183,
+Not found,MIR184,
+Not found,MIR4656,p.Ser574fs
+Q13064,MKRN3,p.Pro161fs
+Q9NXB0,MKS1,p.Ala364fs | p.Glu386fs | p.Glu69Ter | p.Pro68fs | p.Trp6Ter | p.Val307fs
+P40692,MLH1,p.Ala723fs | p.Asp601fs | p.Pro730fs | p.Pro731_Lys732insTer | p.Tyr750_Lys751delinsTer
+Q9H3L0,MMADHC,p.Arg8fs | p.Cys212fs | p.Glu131fs | p.Gly219fs | p.Leu84_Asn85insArgPheTer | p.Tyr213fs
+Q10571,MN1,p.Cys1185Ter
+P50219,MNX1,p.Ala26fs | p.Arg292Trp | p.Ile201fs | p.Tyr166fs
+P00540,MOS,p.Asn95Lys | p.Gly156fs | p.Ser264Cys
+O75352,MPDU1,p.Leu74Ser
+Q2M385,MPEG1,p.Pro325Ser
+P25189,MPZ,p.Lys201Ter
+P49959,MRE11,p.Asn256fs | p.Asp163_Ile164insTer | p.Phe376fs
+P36531,MRPL36,
+Q9Y3D3,MRPS16,
+P00846,MT-ATP6,
+P03928,MT-ATP8,
+P03887,MT-ND1,
+P03898,MT-ND3,
+P03920,MT-ND5,
+P49914,MTHFS,p.Lys106Ter
+Q9NXD2,MTMR10,p.Arg679fs
+Q13614,MTMR2,p.Ala194fs | p.Glu531Ter | p.Lys367fs | p.Phe498fs | p.Val154_Cys155insTer
+Q9Y2Z2,MTO1,p.Arg313Ter | p.Gln216fs | p.Glu416fs
+P42345,MTOR,p.Gln2524Ter | p.Glu1799Ter | p.Ile2501Phe | p.Leu2427Arg
+Q765P7,MTSS2,p.Arg671Trp
+O15146,MUSK,p.Cys434fs | p.Glu183fs | p.Glu542fs | p.Lys609fs | p.Pro364fs | p.Ser531Ter | p.Thr462fs
+Q03426,MVK,p.Arg19Ter | p.Leu16fs | p.Ser222fs | p.Ser8fs | p.Tyr29Ter
+P50539,MXI1,p.Glu152Ala
+P01106,MYC,p.Glu54Asp | p.Thr73Pro
+P04198,MYCN,p.Ala208fs | p.Gln25fs | p.Pro60Gln | p.Ser263Ter | p.Thr58Met | p.Val301fs
+P35749,MYH11,p.Arg677His | p.Glu342Ter | p.Lys1394fs
+P11055,MYH3,p.Gln1207Ter | p.Leu298fs | p.Lys406Ter | p.Phe834Ser
+Q96A32,MYL11,p.Gly163Ser
+Q9UKN7,MYO15A,p.Gln2709Ter | p.Leu2886fs | p.Leu3318fs | p.Thr3260fs
+Q96H55,MYO19,p.Arg154Ser | p.Val206fs
+Q99972,MYOC,p.Arg189Ter | p.Gln48His | p.Lys423Glu | p.Pro370Leu | p.Tyr437His
+Q9UBF9,MYOT,p.Ser55Phe
+P41227,NAA10,p.Val111Gly
+P17050,NAGA,p.Asn214Ter | p.Asp107_Tyr108insTer | p.Gln53Ter | p.Trp212Ter | p.Trp222Cys | p.Tyr108Ter
+Q8IZF0,NALCN,p.Ser1282fs | p.Val1020Phe
+Q9H115,NAPB,p.Tyr111Ter
+O43776,NARS1,p.Met69fs
+P13591,NCAM1,p.Ile632fs
+Q9UBB6,NCDN,p.Pro652His
+O14931,NCR3,
+O15239,NDUFA1,p.Arg37Ser | p.Gly8Arg
+Q9UI09,NDUFA12,p.Arg21fs | p.Glu85Ter | p.Phe28fs | p.Tyr23Ter
+Q9Y375,NDUFAF1,p.Thr207Pro
+Q8N183,NDUFAF2,p.Gln44fs | p.Trp12Ter
+Q5TEU4,NDUFAF5,p.Asn269fs | p.Gln202fs | p.Glu130fs | p.Ile185fs
+Q330K2,NDUFAF6,p.Arg274Gly | p.Asn162fs | p.Asp69Val
+P28331,NDUFS1,p.Arg152Ter | p.Arg557Ter | p.Gly433fs
+Q9CR95,NECAP1,p.Asp87fs
+Q6ZWH5,NEK10,p.Arg412Thr
+Q0MW30,NEURL2,p.Asp194Asn | p.Asp92fs | p.Phe173fs | p.Pro77fs | p.Pro7fs
+Q15784,NEUROD2,p.Leu70Val
+Q0ZGT2,NEXN,p.Arg501Ter | p.Arg501fs | p.Ser226fs | p.Ser450fs
+Q14938,NFIX,p.Arg358fs | p.Gln110fs | p.Glu17Ter | p.Glu187Ter | p.Val230fs
+P19838,NFKB1,p.Ala813fs | p.Gln811Ter | p.Glu708Ter | p.Glu708fs | p.Phe375fs
+Q9BSH3,NICN1,p.Ala44fs | p.Gln16Ter | p.His83Arg | p.Met1Thr | p.Pro20fs
+Q9BS92,NIPSNAP3B,p.Arg2081Trp
+Q9NPP4,NLRC4,p.His443Pro
+P56597,NME5,p.Ile139fs
+Q13423,NNT,p.Asn1009Lys | p.Gly200Ser | p.Ile758fs | p.Thr369_His370insTer
+P46531,NOTCH1,p.Asn373fs | p.Asn760fs | p.Cys1264_Glu1265delinsTer | p.Cys960Ter | p.Gln1057fs | p.Gln1495fs | p.Gln2307Ter | p.Gln803Ter | p.Glu255fs | p.Glu719Ter | p.Gly1772fs | p.Gly672fs | p.Ile1440fs | p.Pro143fs | p.Ser1970fs | p.Ser921fs | p.Tyr2209fs | p.Tyr595fs
+O15259,NPHP1,p.Gln22Ter | p.Gln43Ter | p.Leu388Ter
+A0A0J9YXS1,NPHP3-ACAD11,p.Ala123fs | p.Gln740Ter | p.Gly1086fs | p.Ser30fs | p.Trp796Leu
+P06748,NPM1,p.Trp290fs
+P20594,NPR2,p.Cys593Ter | p.Leu527Phe | p.Ser504Ter
+Q12980,NPRL3,p.Asp181fs | p.Glu176Ter | p.Tyr147fs
+Q15818,NPTX1,p.Gln370Arg
+Q15466,NR0B2,p.Ala195Ser | p.Phe76fs
+Q13133,NR1H3,p.Arg415Gln
+P08235,NR3C2,p.Arg732Ter | p.Ser163Ter | p.Ser335fs | p.Ser818Leu
+Q13285,NR5A1,p.Cys55fs | p.Tyr201fs | p.Val369fs
+Q86YC3,NRROS,p.Gln104Glu
+P49902,NT5C2,p.Arg29Ter | p.Arg76fs | p.Lys385fs | p.Ser409fs | p.Tyr457Ter
+P50583,NUDT2,p.Ala63fs
+Q12769,NUP160,p.Glu1383fs | p.Met35fs
+Q5SRE5,NUP188,p.Arg1678fs | p.Gln1360Ter | p.Ile302fs | p.Trp304Cys | p.Tyr441Cys
+Q96E22,NUS1,p.Gln110Ter | p.Leu94fs | p.Lys189Ter | p.Ser45fs | p.Trp33Ter
+Q01968,OCRL,p.Asp770fs | p.Gln315Ter
+Q96D31,ORAI1,p.Gly98Ser | p.Pro245Leu
+Q9Y619,ORC1,p.Arg321Ter | p.Pro80fs | p.Ser742Ter
+Q9NPF4,OSGEP,p.Arg247Gln
+Q8N6M0,OTUD6B,p.Leu127fs
+P32243,OTX2,p.Ser211Ter | p.Tyr183Ter
+Q9BRP0,OVOL2,
+Q9NXG6,P4HTM,p.Gln471Ter
+Q96M98,PACRG,p.Met1Thr
+Q9ULW8,PADI3,p.Leu112His
+P22234,PAICS,p.Lys53Arg
+Q86YC2,PALB2,p.Asp62fs | p.Leu32fs | p.Lys20fs | p.Tyr79fs
+Q9NPB6,PARD6A,
+Q02962,PAX2,p.Arg137Ter | p.Gly85Asp | p.Ser131fs | p.Tyr302Ter | p.Val26fs
+Not found,PAX8-AS1,p.Arg31Cys | p.Leu62Arg
+P11498,PC,p.Ala448fs | p.Gln479Ter | p.Ser122fs
+A6NGG8,PCARE,p.Asp239fs | p.Gln410fs | p.Lys1114fs | p.Thr572fs
+P05166,PCCB,p.Cys381Ter | p.Gln507Ter | p.Met1Lys
+Q9Y5G5,PCDHGA8,p.Asp483Glu
+P49585,PCYT1A,p.Arg223Ser | p.Arg283Ter | p.Ser333fs | p.Val142Met
+Q9Y233,PDE10A,p.Phe290Leu
+Q13956,PDE6H,p.Ser12Ter
+P09619,PDGFRB,p.Asn666Lys | p.Ile538Asn | p.Leu539_Ala540insArg
+Q86TG7,PEG10,p.Cys13Ter
+Q96FX8,PERP,p.Ser38fs
+P0DJ07,PET100,p.Met1Val
+Q38904,PFN3,p.Val524fs
+P00558,PGK1,p.Val266Met
+Q6PCE3,PGM2L1,p.Glu428Ter | p.Glu435Ter | p.Pro517fs
+O95394,PGM3,p.Gln22Ter | p.Ile141fs | p.Leu187_Ser188insTer | p.Met385fs | p.Val124fs | p.Val454fs
+Q96BD5,PHF21A,p.Arg391Ter | p.Arg534Ter | p.Gln207Ter | p.Pro222_Pro223insTer
+Q93100,PHKB,p.Asn1006fs | p.Ser282_His283insTer
+O14813,PHOX2A,
+O14832,PHYH,p.Arg245Ter | p.Gln237Ter | p.Leu174fs | p.Pro20fs | p.Trp225Ter
+Q9H5I5,PIEZO2,p.Glu1838fs | p.Thr2092fs | p.Trp355Ter | p.Tyr870fs
+P37287,PIGA,p.Leu344del | p.Thr123Met
+Q92521,PIGB,p.Phe391fs | p.Tyr101Ter | p.Tyr221Ter | p.Tyr338Ter
+O95427,PIGN,p.Arg641_Lys642insTer | p.Leu9fs | p.Phe4fs
+Q3MUY2,PIGY,p.Gln97fs
+P42336,PIK3CA,p.Arg93Gly | p.Asp883fs | p.Met1004Ile | p.Pro447_Val448insTer | p.Pro449Thr
+O60331,PIP5K1C,p.Asp253Asn
+Q9UG56,PISD,
+P47712,PLA2G4A,p.Arg485His
+Q13393,PLD1,p.Ile805_Leu806insTer | p.Trp678fs
+O94827,PLEKHG5,p.Ala466fs | p.Gln748Ter | p.Leu122fs
+O00469,PLOD2,p.Cys216Ter | p.Cys23fs | p.Gly3fs
+O15031,PLXNB2,p.Gly1537Ser
+Q10713,PMPCA,p.Ala377Thr | p.Arg22Trp | p.Val256Met
+O75439,PMPCB,p.Arg175His
+Q96T60,PNKP,p.Arg439fs | p.Ile421fs | p.Ile501fs | p.Tyr480Ter | p.Tyr515fs
+Q8TC44,POC1B,p.Trp87Ter
+O95602,POLR1A,p.Arg843Ter
+O15160,POLR1C,p.Ala68fs | p.Val36fs | p.Val44fs
+P0DPB6,POLR1D,p.His109fs | p.Leu51Arg
+Q9Y535,POLR3H,p.Arg656fs | p.Asp611fs | p.Cys592Ter | p.Trp657Ter
+Q8WZA1,POMGNT1,p.Ala203fs | p.Glu539fs | p.Gly352fs
+Q8NAT1,POMGNT2,p.Asp170fs | p.Gln249Ter | p.Pro253Leu
+Q9H2U2,PPA2,p.Gln265Arg | p.Met106Ile | p.Pro199Leu
+O43612,PPOX,p.Arg113Lys | p.Arg152Ser | p.Arg47Ter | p.Leu414fs
+Q5SWA1,PPP1R15B,p.Arg658Cys
+Q08209,PPP3CA,p.Ala447Ser | p.Glu456Ter | p.Leu146fs | p.Ser419fs | p.Ser438fs
+P50897,PPT1,p.Gln106Ter | p.Pro238fs | p.Val88fs
+Q04118,PRB3,p.Arg49Cys | p.Pro241fs
+E1B7R9,PRCD,p.Arg35fs
+P14222,PRF1,p.Asp469fs | p.Gly476fs | p.His269fs | p.Val111fs
+P10644,PRKAR1A,p.Asn309fs | p.Gln285Ter | p.Gly98fs | p.Ser254fs
+P05129,PRKCG,p.His101_Lys102del | p.His139Gln | p.Ser119Phe
+Q04759,PRKCQ,p.Pro330Leu
+P14314,PRKCSH,p.Asn72fs | p.Leu144fs
+P78527,PRKDC,p.Ala3574Val
+Q13237,PRKG2,
+O60260,PRKN,p.Cys201Ter | p.Val164fs | p.Val248fs
+Q7Z6L0,PRRT2,p.Arg308fs | p.Asn296fs | p.Gln163fs | p.Glu133fs | p.Lys116fs | p.Pro247fs
+Q86TP1,PRUNE1,p.Arg297Trp | p.Asp3fs | p.Pro54Thr
+P28062,PSMB8,p.Gln157Ter | p.Gln51Ter | p.Ser17Leu
+Not found,PTCHD1-AS,p.Asn643fs | p.Asn681fs | p.Gln704fs | p.Thr679fs
+P01270,PTH,p.Arg83Ter
+Q9H3S7,PTPN23,p.Arg60Ter | p.Gln979Lys | p.Gly809fs | p.Leu992fs
+Q12913,PTPRJ,
+Q9BZE2,PUS3,p.Met1Ile
+P32322,PYCR1,p.Ala257Thr | p.Arg251Cys | p.Gly49_Val50insTer | p.Gly4Val | p.His243Arg | p.Val117Phe
+Q96C36,PYCR2,p.Leu253fs
+P06737,PYGL,p.Arg172Ter
+Q9H0J4,QRICH2,p.Tyr1704Ter
+Q14088,RAB33A,p.Asp237Val | p.Gln235His | p.Gly262Ser | p.Val243Leu
+O60216,RAD21,p.Arg65Ter | p.Glu518fs | p.Lys406fs
+O75771,RAD51D,p.Asp90fs | p.Glu74_Leu75insTer | p.Leu20fs | p.Leu57fs | p.Tyr72fs | p.Val6fs
+P54136,RARS1,p.Met1Ile | p.Met1Lys
+Q5T160,RARS2,p.Ala213fs | p.Gln406Ter | p.Gln43Ter | p.Phe153fs
+P20936,RASA1,p.Asp521fs | p.Lys834fs | p.Pro981fs | p.Ser526fs
+Q9NS23,RASSF1,p.Leu266Pro | p.Ser250fs
+P06400,RB1,p.Arg828fs | p.Lys810fs | p.Lys847_Ile848insTer | p.Thr823fs
+Q9BYM8,RBCK1,p.Cys329fs | p.Gln216Lys | p.Gln275Ter | p.Trp337Ter
+P10745,RBP3,p.Asp427fs | p.Thr563fs | p.Val102fs | p.Val301fs
+Q7Z3Z2,RD3,p.Arg38Ter | p.Tyr60Ter
+Q13127,REST,p.Cys415Tyr | p.Glu148fs
+P07949,RET,p.Asp219fs | p.Asp567fs | p.Cys449Ter | p.Ser1034fs
+Q8K4K5,RGL1,p.Ser8Leu
+O75916,RGS9,p.Arg128Ter | p.Arg35Gly | p.Gln28Ter | p.Trp299Arg
+Q8N443,RIBC1,p.Glu249Gln | p.Phe3_Leu4insTer
+P12271,RLBP1,p.Gln21Ter | p.Glu68Ter
+P34096,RNASE4,p.Gln36Leu | p.Lys41Glu | p.Val137Ile
+Q9H6Y7,RNF167,p.Pro239Thr
+Q68DV7,RNF43,p.Arg132Ter
+Q96LT9,RNPC3,p.Leu483Phe | p.Leu88fs
+Not found,RNU4ATAC,
+P51449,RORC,p.Gln329Ter
+P56715,RP1,p.Ile1524fs | p.Ile864fs | p.Leu1693Ter | p.Val1264fs
+O75695,RP2,p.Asp305fs | p.Leu237Ter | p.Lys144Ter | p.Ser224fs
+Q16518,RPE65,p.Asn199fs | p.Trp268Ter
+Q68CZ1,RPGRIP1L,p.Asn126fs | p.Gln377_Trp378insTer | p.Gly220fs
+P49247,RPIA,p.Arg151Ter
+P62913,RPL11,p.Arg35fs | p.His155fs | p.Met12fs | p.Thr34fs
+P61313,RPL15,
+H0Y3V9,RPL36A-HNRNPH2,p.Asn192fs | p.Gly128Glu | p.His125Leu | p.Phe113Ser | p.Thr282fs | p.Tyr329fs
+P08708,RPS17,p.Tyr53Ter
+P62266,RPS23,p.Phe120Ile
+P42677,RPS27,p.Tyr31fs
+P51812,RPS6KA3,p.Arg514Ter | p.Glu233Ter | p.Ile523Ter | p.Leu201Pro | p.Pro237Ser
+Q9HB90,RRAGC,p.Thr90Asn
+Q8WYR4,RSPH1,p.Gly103Val | p.Gly126Val | p.Leu219fs
+Q5TD94,RSPH4A,p.Gln155fs | p.Gln564Lys | p.Phe644fs | p.Trp544Ter
+Q9H1X1,RSPH9,p.Glu192fs | p.Glu267Lys | p.Lys268del | p.Met1Val | p.Tyr39Ter
+Q86VV8,RTTN,p.Arg1193Ter | p.Ile560fs | p.Phe1579fs | p.Ser498fs | p.Trp962Cys
+Q01196,RUNX1,p.Ala120fs | p.Ala142fs | p.Glu138Ter | p.Ile177fs | p.Pro49fs
+P0DJI8,SAA1,p.Ala70Val
+Q9UBF6,SAG,p.Asn232fs | p.Asn309fs
+Q9Y6B6,SAR1B,p.Glu113fs | p.Leu28fs | p.Ser179Arg
+Q6SZW1,SARM1,p.Arg376Trp | p.Leu418fs
+Q01826,SATB1,p.Arg553Ter | p.Asn268fs | p.Pro626fs
+Q9UPW6,SATB2,p.Gln305Ter | p.Glu494fs | p.Glu519Lys
+Q9Y3A5,SBDS,p.Lys125fs | p.Ser41fs | p.Thr102fs | p.Val36fs
+O95104,SCAF4,p.Tyr557fs | p.Val285fs
+Q96GP6,SCARF2,p.Arg477fs
+Q96NL6,SCLT1,p.Asn505fs | p.Glu222fs | p.Glu638Ter
+Q9UI33,SCN11A,p.Arg222Cys | p.Arg225Cys
+P35498,SCN1A,p.Arg1314Ter | p.Trp1347Arg
+Q9NY72,SCN3B,p.Ile141Met | p.Val110Ile
+Q14524,SCN5A,p.Arg14fs | p.Gln435fs | p.Thr518fs
+P37088,SCNN1A,p.Cys479Arg | p.Ile68fs | p.Lys410fs | p.Phe528del
+P51170,SCNN1G,p.Gln567Ter | p.Glu197Lys | p.Gly183Ser
+Q8IX30,SCUBE3,p.Arg573Ter | p.Gly204Asp
+Q6P3W7,SCYL2,p.Arg100Ter | p.Arg36Gly | p.Asp72_Glu78del
+Q9NX18,SDHAF2,p.Asp42fs | p.Ser10fs | p.Trp121Ter | p.Trp55Ter | p.Tyr72Ter
+O94855,SEC24D,p.Cys908Tyr | p.Leu737fs | p.Pro292Leu
+P60468,SEC61B,p.Gly72fs
+Q9UGP8,SEC63,p.Lys604Ter
+Q9W6G6,SEMA3D,p.Pro580Ser
+P05543,SERPINA7,p.Ala211Thr | p.Asp191His | p.Leu303Phe
+O75635,SERPINB7,p.Val175fs
+P05155,SERPING1,p.Leu398dup | p.Lys415Ter | p.Val446fs
+Q01105,SET,p.Arg44fs | p.Pro151fs
+Q9C0A6,SETD5,p.Gln645fs | p.Leu1014fs | p.Val1191fs
+Q9BWM7,SFXN3,p.Arg66fs
+Q92629,SGCD,p.Glu156Ter | p.Glu190Lys | p.Leu148Ter | p.Ser151Pro
+P51688,SGSH,p.His446fs | p.Phe278fs | p.Ser378fs | p.Val131fs
+O60880,SH2D1A,p.Gln88fs | p.Tyr7Cys
+Q15465,SHH,p.Arg34fs | p.Cys157Ter | p.Leu139fs | p.Ser436Ter | p.Trp434Cys
+P14410,SI,p.Arg1041Ter | p.Gln748Ter | p.Gln90fs | p.Val294fs
+P55017,SLC12A3,p.Leu700Pro | p.Lys949Ter | p.Phe742fs | p.Tyr540fs
+P53985,SLC16A1,p.Arg143Ter | p.Arg313Gln | p.Arg328Ter | p.Asn250fs | p.Pro14fs | p.Val167fs
+Q8NDX2,SLC17A8,p.Ala211Val | p.Arg75Ser
+O60779,SLC19A2,p.Arg226fs | p.Ser186fs | p.Trp301Ter
+Q9BZV2,SLC19A3,p.Cys143fs | p.Cys272Ter | p.Lys232fs | p.Tyr169Ter
+P53007,SLC25A1,p.Arg247Leu | p.Gly130Asp
+Q02978,SLC25A11,p.Glu141Gln | p.Met147Val
+Q9Y619,SLC25A15,p.Ala199fs | p.Glu288fs | p.Met33fs | p.Pro166fs | p.Ser149fs
+O43772,SLC25A20,p.Ala281Val | p.Lys244fs | p.Lys98Ter
+Q00325,SLC25A3,p.Tyr208_Lys209delinsTer
+Not found,SLC26A4-AS1,p.Glu29Gly | p.Ser28Arg
+Q99808,SLC29A1,p.Thr387Pro
+Q9NRM0,SLC2A9,p.Arg198His | p.Thr125fs
+O15431,SLC31A1,p.Arg95His
+O95436,SLC34A2,p.Asp39fs | p.Lys273fs
+Q9Y2D2,SLC35A3,p.Gln16fs
+Q96A29,SLC35C1,p.Gln260Ter
+Q92504,SLC39A7,p.Gln372Glu
+Q9C0K1,SLC39A8,p.Gly204Cys | p.Ile340Asn | p.Ser335Thr
+Q07837,SLC3A1,p.Glu437fs | p.Leu207Ter | p.Leu457fs
+Q8NBS3,SLC4A11,p.Arg730fs | p.Lys516fs
+Q9Y6R1,SLC4A4,p.Arg298Ser
+Q9NQ40,SLC52A3,p.Arg212Cys | p.Gln259Ter | p.Trp17Ter | p.Trp98Leu | p.Val252fs
+Q92911,SLC5A5,p.Gly395Arg | p.Gly543Glu
+P30531,SLC6A1,p.Asn438Ter | p.Phe386Ser | p.Trp168fs | p.Trp538Ter
+P48029,SLC6A8,p.Leu412fs | p.Pro434fs
+P48764,SLC9A3,p.Gly261fs
+Q92581,SLC9A6,p.Arg169fs | p.Glu255_Ser256del
+Q92959,SLCO2A1,p.Gln556His | p.Gly255Arg | p.Ser264_Ser265insTer | p.Tyr90Ter
+Q8IX21,SLF2,p.Arg190Gly
+P84022,SMAD3,p.Ser425Tyr | p.Val257fs
+Q13485,SMAD4,p.Ala452fs | p.Pro313fs | p.Pro522fs | p.Tyr412_Tyr413insTer | p.Val341fs
+O43541,SMAD6,p.Arg281fs | p.Arg82fs | p.Glu338fs | p.Glu95fs | p.Ser320fs
+O15198,SMAD9,p.Cys202Ter | p.Lys46fs
+Q12824,SMARCB1,p.Arg155fs | p.Asn179fs | p.Leu50fs | p.Lys71fs | p.Phe164fs | p.Pro14His | p.Trp51Ter
+Q8TAQ2,SMARCC2,p.Gln58Ter | p.Lys622fs | p.Pro1042fs | p.Thr340fs
+Q99835,SMO,p.Leu412Val
+O95721,SNAP29,p.Glu79fs | p.Met1Thr | p.Tyr122fs
+Not found,SNHG14,p.Ala862delinsValLysArgAspCysTer | p.Asn220_Leu221insTer | p.Thr807fs
+Not found,SNORD21,p.Asp168fs | p.Gln138Lys | p.Gln222Ter | p.Ile173fs | p.Phe160fs | p.Tyr219Ter
+P62304,SNRPE,p.Leu74Pro
+Q9Y5W7,SNX14,p.Phe575fs
+Q96L92,SNX27,p.Arg218Ter
+O15524,SOCS1,p.Tyr154His
+P08294,SOD3,p.Arg231Gly
+Q9BQB4,SOST,p.Trp124Ter
+Q9H6I2,SOX17,p.Leu167fs
+P48431,SOX2,p.Arg57fs | p.Met59fs | p.Pro302fs | p.Tyr110fs | p.Tyr171Ter
+Not found,SOX2-OT,p.Glu86fs | p.Gly185fs | p.Met59fs | p.Ser257fs | p.Tyr110Ser | p.Tyr171Ter
+P35712,SOX6,p.Leu437fs | p.Tyr361Ter
+Q07617,SPAG1,p.Arg338fs | p.Asn859fs | p.Glu109fs
+Q9BR10,SPATA25,p.Pro86fs | p.Trp117Ter
+F8WAN1,SPECC1L-ADORA2A,p.Ala416Thr | p.Thr417Pro
+Q01892,SPIB,p.Arg1060Ser
+Q9NQ38,SPINK5,p.Glu968fs | p.Lys680fs
+O43791,SPOP,p.Arg138Cys
+P35270,SPR,p.Arg219Ter | p.Gln182Ter | p.Lys230Ter | p.Lys251Glu
+Q9H254,SPTBN4,p.Gln1197Glu | p.Gln1725Glu | p.Glu1274Lys | p.Leu417fs
+Q6ZRS2,SRCAP,p.Arg2428fs | p.Gln1519fs | p.Val2757fs
+Q9H8P0,SRD5A3,p.Ala17fs
+Q8NEF9,SRFBP1,p.Gln223fs | p.Glu242Ter | p.Thr248Ile | p.Val76fs
+Q07955,SRSF1,p.Leu84Arg | p.Ser126fs
+Q05066,SRY,p.Gly95Ter | p.Met64Ile | p.Tyr127Phe
+Q969W9,STAG1,p.Arg373Gln | p.Asp706fs | p.Leu87fs
+P49675,STAR,p.Gln262fs | p.Leu133_Tyr134insTer | p.Leu3fs | p.Val226fs
+P42224,STAT1,p.Glu268Ter | p.Thr387Ala | p.Val389Leu
+Q15468,STIL,p.Leu798Trp | p.Tyr235fs
+Q3MIM1,STON1-GTF2A1L,p.Arg124Ter | p.Leu17_Gln18del | p.Leu502Pro | p.Tyr623Ter
+P61764,STXBP1,p.Ile205fs | p.Trp28Gly | p.Tyr75His
+Q8IZU3,SYCP3,
+P17600,SYN1,p.Arg420fs | p.Gln423fs | p.Gln482Ter | p.Gln532Ter | p.Ser79Leu
+O14994,SYN3,p.Pro482Leu
+Q8N9I0,SYT2,p.Asp307Ala
+P29371,TACR3,p.Tyr256His
+P21675,TAF1,p.Arg1170Cys
+Q16635,TAFAZZIN,p.Arg123Ter | p.Phe192fs | p.Trp79Ter
+Q03518,TAP1,p.His622fs | p.Pro336fs | p.Val406fs
+Q03519,TAP2,p.Gln125fs | p.Gln242Ter | p.Trp367Ter | p.Trp39fs
+Q9UPU7,TBC1D2B,p.Leu220fs
+Q9BTW9,TBCD,p.Ala735fs | p.Leu483fs
+Q15813,TBCE,p.Asn342fs | p.Gln395fs | p.Lys157fs | p.Tyr418fs
+A0A2R8YFB7,TBCEL-TECTA,p.Arg1956Gly
+Q16650,TBR1,p.Asn374His | p.Ser515fs | p.Thr408fs
+Q9UL17,TBX21,
+O15119,TBX3,p.Ala147fs | p.Ala377fs | p.Met30fs
+Q96GX1,TCTN2,p.Arg417fs | p.Gln625Ter | p.Gln625fs | p.Trp24Ter
+Q8NHU6,TDRD7,p.Gln670Ter
+Q5HYJ1,TECRL,p.Arg196Ter | p.Arg47fs | p.Thr69fs
+Q8IWB6,TEX14,p.Cys1183Ter | p.Lys26fs | p.Pro1161fs
+P05549,TFAP2A,p.Glu227_Arg230del | p.Leu243Arg | p.Pro271fs
+Q9UP52,TFR2,p.Arg252fs | p.Arg25fs | p.Asp699fs | p.Pro395fs
+O95455,TGDS,p.Glu90Gly
+P61812,TGFB2,p.Arg153fs | p.Arg320fs | p.Gly348fs | p.Val63fs
+P36897,TGFBR1,p.Lys335Asn | p.Pro10fs | p.Ser280Ter | p.Val229Asp
+P22735,TGM1,p.Glu232Ter | p.Ser75fs | p.Val379fs
+Q9NWX6,THG1L,p.Gln177Ter
+P10827,THRA,p.Cys392Ter | p.Gly291Ser | p.Pro398Arg
+Q13009,TIAM1,p.Ala1547Val
+Q96MW7,TIGD1,p.Arg332Trp | p.Arg341Ter
+Q3ZCQ8,TIMM50,p.Gly269Ser
+Q9Y5J9,TIMM8B,p.Gln47Ter | p.His50fs | p.Pro24fs | p.Trp5fs
+Q3LXA3,TKFC,p.Arg543Lys
+O75204,TMEM127,p.Ala38fs | p.Val115fs | p.Val90fs
+A2RU14,TMEM218,p.Arg80Cys
+Q9H6L2,TMEM231,p.Trp22Ter | p.Trp83Ter
+Q96HE8,TMEM80,p.Leu13fs
+Q9NVH6,TMLHE,p.Ile321fs
+Q6ZT21,TMPPE,
+Q9NRS4,TMPRSS3,p.Leu250fs | p.Met448fs | p.Pro50fs | p.Tyr292Ter
+Q8IU80,TMPRSS6,p.Ala109Asp | p.Ala596fs | p.Gly433Arg
+Q5T4D3,TMTC4,p.Ala192Val
+P08057,TNNI3,p.Arg204Leu | p.Gln467fs | p.Ser44Ala
+Q96HA7,TONSL,p.Gln177Ter | p.Glu199Lys | p.Leu1062fs
+Not found,TONSL-AS1,p.Ala622fs | p.Asp834fs | p.Glu494Ter
+P60174,TPI1,p.Cys42Tyr | p.Glu105Asp | p.Glu146Gln
+P09493,TPM1,p.Arg160His | p.Glu40Lys | p.Glu54Lys | p.Ile143Asn | p.Leu113Val
+P06753,TPM3,p.Arg168Leu | p.Glu219del | p.Leu149Ile | p.Met9Arg | p.Ter286Ser
+P07202,TPO,p.Cys825fs | p.Gln260fs | p.Gln99Ter | p.Leu573fs
+Q96AP0,TPP1,p.Arg206fs | p.Gln189Ter | p.Gln338Ter | p.His140fs | p.Ser113fs
+P48553,TRAPPC10,p.Gly1131fs
+Q7Z392,TRAPPC11,p.Asn378fs | p.Gln508Ter | p.Lys724fs | p.Phe223fs | p.Trp489Ter
+Q8WVT3,TRAPPC12,p.Phe227fs
+Q86SZ2,TRAPPC6B,
+Q9NZC2,TREM2,p.Gln33Ter
+Q969Q1,TRIM63,p.Gln247Ter
+Q2Q1W2,TRIM71,p.Arg608His
+Q9H2D6,TRIOBP,p.Glu1431Ter | p.Pro1071fs
+O75648,TRMU,p.Asp349fs | p.Gln62Ter | p.Ser218fs | p.Trp312Ter | p.Tyr58Ter
+Q9NZQ8,TRPM5,p.Glu39Ter | p.Gly119fs | p.Ile54_Pro56del | p.Ile54fs | p.Lys121fs | p.Pro59fs | p.Val129fs
+Q9BX84,TRPM6,p.His427fs | p.Pro341fs | p.Ser1215fs
+P49815,TSC2,p.Asp376fs | p.Gln325fs | p.His267fs
+Q7Z6J9,TSEN54,p.Lys293fs | p.Pro231fs
+P01222,TSHB,p.Glu32Lys | p.Gly49Arg | p.Phe77fs
+Q12094,TSR3,p.Ala6fs
+Q7Z4L5,TTC21B,p.Leu336fs
+Not found,TTC21B-AS1,
+Q6PGP7,TTC37,p.Asp173fs | p.Gly987_Tyr988insTer | p.Lys20fs | p.Lys750fs | p.Trp160Ser
+Q9ULT0,TTC7A,p.Arg358Gly | p.Cys623Ter | p.Gln76Ter | p.Glu595fs | p.Pro59fs
+Q8WZ42,TTN,p.Gly29223_Ser29228del | p.Phe26155fs | p.Tyr18850Ter
+P0DPH8,TUBA3D,p.Gln11Lys
+P68366,TUBA4A,p.Arg215Cys | p.Trp407Ter
+Q9NY65,TUBA8,p.Arg243Cys
+P68371,TUBB4B,p.Arg391His
+P23258,TUBG1,p.Leu387Pro
+Q9UGJ1,TUBGCP4,p.Gln398Lys | p.Gln430Ter | p.Gln539Ter | p.Gln75Ter | p.Leu243fs | p.Trp19Ter | p.Tyr267Ter
+Q96RR1,TWNK,p.Ala460Gly | p.Arg374Gln | p.Gln458fs | p.Val173fs
+Q99757,TXN2,p.Trp24Ter
+P14679,TYR,p.Ala381fs | p.Gly101fs | p.His211Tyr | p.Leu263fs
+Q9UBT2,UBA2,p.Gly18fs | p.Phe109fs | p.Thr460fs
+Q9NZ09,UBAP1,p.Ile83fs
+Q9NPD8,UBE2T,
+Q14139,UBE4A,p.Arg211Ter
+Q8IWV7,UBR1,p.Gln967Ter | p.Tyr396Ter
+Q96RP3,UCN2,p.Ala2903fs | p.Arg2835fs | p.Trp2870Ter
+O60701,UGDH,p.Ala82Thr
+Q70J99,UNC13D,p.Asp651fs | p.Gln463Ter | p.Gln609Ter
+Q8N2C7,UNC80,p.Asn1296fs | p.Asn3027fs | p.Gln1832fs | p.Glu410fs | p.Leu2524fs | p.Pro3116fs
+P22695,UQCRC2,p.Arg183Gly | p.Gly222Ala
+Not found,USH2A-AS2,p.Gln1786Ter | p.Glu1856Ter | p.Gly1723Glu | p.Lys1912fs
+O94966,USP19,p.Gln1507Ter | p.Gln1602fs | p.Lys1603fs | p.Val451Leu
+Q5TAP6,UTP14C,p.Asn375fs | p.Val139Ala
+Not found,VCAN-AS1,p.Thr2138fs
+P11473,VDR,p.Gly46Val
+P98155,VLDLR,p.Ala189fs | p.Arg279Ter | p.Glu654Gly | p.Glu760Ter | p.Trp572fs
+Q7Z3J2,VPS35L,p.Ala830Thr
+Q9NRW7,VPS45,p.Thr224Asn
+Q99986,VRK1,p.Glu382fs | p.Glu94fs | p.Ile168fs | p.Lys218Ter
+Not found,WAS,p.Arg156fs | p.Glu133Asp | p.Gly322Ter | p.Pro359fs | p.Ser248fs
+Q12768,WASHC5,p.Arg171Ter | p.Arg583Gly | p.Gly696Ser | p.Lys70fs | p.Pro813fs | p.Tyr235Ter
+Q9Y2W2,WBP11,p.Arg508fs
+O75083,WDR1,p.Phe131Cys | p.Val424Leu
+Q8NEZ3,WDR19,p.Gln176Glu | p.Gln784fs | p.His481Arg | p.Trp924Ter | p.Tyr863Ter
+Q9H7D7,WDR26,p.Arg508Ter | p.Gln122fs | p.Leu147fs | p.Pro298fs | p.Trp271Ter
+P57081,WDR4,p.Arg170Leu
+Q9Y484,WDR45,p.Cys22fs | p.Gln224Ter | p.Phe137fs
+O43379,WDR62,p.Ala1152fs | p.Ser1405fs
+Q9BRX9,WDR83,p.Arg115fs | p.Arg202fs | p.Thr163fs | p.Thr54fs | p.Trp193Ter
+O76024,WFS1,p.Gln22fs | p.Glu694fs | p.Pro320fs | p.Trp129fs
+Q9Y4P8,WIPI2,p.Val249Met
+O00755,WNT7A,p.Ala109Thr
+Q9NZC7,WWOX,p.Arg346fs | p.Lys284del | p.Thr38fs
+O00308,WWP2,
+Q9HCS7,XAB2,p.Gln48Ter
+P51811,XK,p.Leu286fs
+P23025,XPA,p.Ala4fs | p.Asn251_Leu252insTer | p.Glu80Ter | p.Thr142fs
+Q01831,XPC,p.Asn356fs | p.Cys790fs | p.Glu726fs
+Q9H1B5,XYLT2,p.Ala827fs
+P46937,YAP1,p.Arg124Gly | p.Met86Thr
+Q1LVI2,YJEFN3,p.Phe65fs
+Q9NQZ6,ZC4H2,p.Lys81fs | p.Met1Thr | p.Met8fs
+O60315,ZEB2,p.Glu181fs | p.Gly92Ter
+Q8WW38,ZFPM2,p.Arg311Gly | p.Glu30Ala | p.Met544Ile
+Not found,ZFPM2-AS1,p.Arg260Gln | p.Cys255fs | p.Ser657Gly
+O95409,ZIC2,p.Gln265Ter | p.His166fs | p.Leu440fs | p.Trp304Ter
+Q9ULJ6,ZMIZ1,
+O75844,ZMPSTE24,p.Leu362Ter | p.Leu362fs | p.Lys273fs | p.Tyr195fs
+Q9UQR1,ZNF148,p.Arg399fs | p.Leu544fs | p.Lys528fs | p.Ser324fs
+Q9ULT6,ZNRF3,p.Cys193Tyr | p.Cys196Tyr
