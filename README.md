@@ -16,7 +16,7 @@ Quantify and visualize patterns across mutation types
 
 ## 🧪 Project Workflow
 
-1. Data Collection
+## 1. Data Collection
 Downloaded mutation data in bulk from:
 COSMIC (Catalogue of Somatic Mutations in Cancer)
 dbSNP
@@ -25,19 +25,19 @@ Merged all unique gene entries with their corresponding amino acid (AA) mutation
 Removed redundant and duplicate entries
 
 
-2. UniProt Mapping
+## 2. UniProt Mapping
 For each unique gene name, fetched the corresponding UniProt ID
 This allowed access to canonical protein sequences and structural annotation
 
 
-3. Binding Site Retrieval
+## 3. Binding Site Retrieval
 Queried UniProt for binding site information using:
 Position annotations (e.g., Position_1 to Position_20)
 Sequence fragments at those positions
 Each gene had 5–20 binding positions (both integers and ranges like 80-95)
 
 
-4. Mutation Matching
+## 4. Mutation Matching
 Parsed each mutation (e.g., p.H45G, p.T89Y) using regex
 Checked whether the mutated position (e.g., 45 or 89) matched the gene's annotated binding positions
 Labeled each mutation as:
@@ -45,11 +45,11 @@ In Binding Site if the position overlaps with any binding site
 Out of Binding Site otherwise
 
 
-5. FASTA Retrieval
+## 5. FASTA Retrieval
 Retrieved full-length FASTA sequences for each gene from UniProt (for downstream sequence-based analysis and alignment)
 
 
-6. Biochemical Category Analysis
+## 6. Biochemical Category Analysis
 Categorized all amino acids into 4 groups:
 
 | Category    | Residues                  |
@@ -64,7 +64,7 @@ Cross-category: e.g., hydrophobic → hydrophilic
 Same-category: e.g., acidic → acidic
 
 
-7. Statistical Analysis
+## 7. Statistical Analysis
 Counted how many mutations of each type occurred inside vs outside binding sites
 
 
