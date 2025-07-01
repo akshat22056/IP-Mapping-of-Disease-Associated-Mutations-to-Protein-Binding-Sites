@@ -38,8 +38,8 @@ Each gene had 5–20 binding positions (both integers and ranges like 80-95)
 
 
 ## 4. Mutation Matching
-Parsed each mutation (e.g., p.H45G, p.T89Y) using regex
-Checked whether the mutated position (e.g., 45 or 89) matched the gene's annotated binding positions
+Parsed each mutation (e.g., p.A336T , p.A4S) using regex
+Checked whether the mutated position (e.g., 336 or 4) matched the gene's annotated binding positions
 Labeled each mutation as:
 In Binding Site if the position overlaps with any binding site
 Out of Binding Site otherwise
