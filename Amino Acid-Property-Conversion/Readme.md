@@ -16,19 +16,18 @@ FASTA sequences (used for validation)
 ## ⚙️ Methodology
 1. Amino Acid Classification
 Each AA is grouped by biochemical properties:
-| **Amino Acid**    | **Property** |   | **Amino Acid**    | **Property** |
-| ----------------- | ------------ | - | ----------------- | ------------ |
-| A (Alanine)       | Hydrophobic  |   | S (Serine)        | Hydrophilic  |
-| V (Valine)        | Hydrophobic  |   | T (Threonine)     | Hydrophilic  |
-| I (Isoleucine)    | Hydrophobic  |   | C (Cysteine)      | Hydrophilic  |
-| L (Leucine)       | Hydrophobic  |   | N (Asparagine)    | Hydrophilic  |
-| M (Methionine)    | Hydrophobic  |   | Q (Glutamine)     | Hydrophilic  |
-| F (Phenylalanine) | Hydrophobic  |   | Y (Tyrosine)      | Hydrophilic  |
-| W (Tryptophan)    | Hydrophobic  |   | D (Aspartic Acid) | Acidic       |
-| P (Proline)       | Hydrophobic  |   | E (Glutamic Acid) | Acidic       |
-| G (Glycine)       | Hydrophobic  |   | K (Lysine)        | Basic        |
-|                   |              |   | R (Arginine)      | Basic        |
-|                   |              |   | H (Histidine)     | Basic        |
+
+| **Amino Acid**    | **Category** | **Amino Acid** | **Category** | **Amino Acid**    | **Category** |
+| ----------------- | ------------ | -------------- | ------------ | ----------------- | ------------ |
+| A (Alanine)       | Hydrophobic  | S (Serine)     | Hydrophilic  | D (Aspartic Acid) | Acidic       |
+| V (Valine)        | Hydrophobic  | T (Threonine)  | Hydrophilic  | E (Glutamic Acid) | Acidic       |
+| I (Isoleucine)    | Hydrophobic  | C (Cysteine)   | Hydrophilic  | K (Lysine)        | Basic        |
+| L (Leucine)       | Hydrophobic  | N (Asparagine) | Hydrophilic  | R (Arginine)      | Basic        |
+| M (Methionine)    | Hydrophobic  | Q (Glutamine)  | Hydrophilic  | H (Histidine)     | Basic        |
+| F (Phenylalanine) | Hydrophobic  | Y (Tyrosine)   | Hydrophilic  |                   |              |
+| W (Tryptophan)    | Hydrophobic  |                |              |                   |              |
+| P (Proline)       | Hydrophobic  |                |              |                   |              |
+| G (Glycine)       | Hydrophobic  |                |              |                   |              |
 
 ## 2. Mutation Parsing
 Mutations like p.A336T are interpreted as:
