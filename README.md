@@ -114,22 +114,55 @@ When mutations do occur in binding regions, they are more likely to involve char
 Same-category mutations likely represent neutral or tolerated substitutions, while cross-category mutations, especially in binding sites, could indicate pathogenic potential or functional adaptation.
 
 ## 🧱 PDB Structural Filtering and Chain Cleanup
-As part of downstream structure-aware mutation mapping and surface accessibility analysis, we integrated PDB-level structural filtering:
+To complement our sequence-based mutation analysis with structural insights, we extended our pipeline to incorporate 3D protein structure data from the Protein Data Bank (PDB). This structural layer enables downstream tasks like surface accessibility prediction, ligand-binding analysis, and mutation impact modeling.
 
 ## 🧬 Workflow Summary
-For each UniProt-mapped gene, we retrieved all associated PDB structures and chain annotations via UniProt’s structure section.
 
-## A dedicated CSV was created containing:
+## Mapping to PDB Structures via UniProt
+For each gene with a known UniProt ID, we accessed the “Structure” section of the UniProt entry to extract all associated PDB entries and their corresponding chains. This ensures that we’re using biologically validated 3D models relevant to the gene.
+
+## Generated Structured CSV for Mapping
+We created a clean, flattened CSV file with the format:
+
 GENE_NAME, UniProt_ID, PDB_ID, CHAIN, RESIDUE_RANGE
-PDB files (~24k) were bulk-downloaded using the RCSB PDB API.
-Chains were filtered using our chain list — we removed all chains not present in UniProt annotations, keeping other lines (REMARK, HELIX, etc.) untouched.
+
+This includes all available chains and residue coverage for each PDB structure associated with the gene.
+Genes with multiple PDB structures or multiple chains appear in multiple rows.
+
+## Bulk Download of PDB Files (~25,000+)
+
+Using RCSB’s PDB REST API, we automated the retrieval of all unique PDB files.
+A tracking mechanism was implemented to log successful and failed downloads, so corrupt or unavailable structures can be handled later.
+
+## Chain Filtering on PDB Files
+
+Each downloaded .pdb file was cleaned to retain only the chains explicitly listed in our master CSV.
+Non-matching chains (irrelevant to our gene or UniProt context) were deleted.
+Only ATOM and HETATM lines were filtered—other metadata (e.g., REMARK, HELIX, SHEET, SEQRES) were left untouched to preserve structural integrity.
+This step ensures the resulting files are suitable for precise structural analysis focused solely on biologically relevant chains.
 
 ## ✅ Example:
-If UniProt ID Q9HB90 maps to PDB 1a00 with chains B and D, we retained only ATOM/HETATM lines corresponding to chains B and D.
+If a gene with UniProt ID Q9HB90 maps to PDB 1a00 with chain assignment B/D, then:
+Only chains B and D from the file 1a00.pdb were retained.
+Chains like A, C, or others (if present) were removed.
+The cleaned file was saved as 1a00_filtered.pdb.
 
-## 🧪 Ready for Surface Analysis
-Filtered .pdb files are now ready for surface accessibility or molecular interaction studies using tools like:
-PyMOL
-Chimera
-PISA
-DSSP
+## 🧪 Ready for Structure-Based Analysis
+These chain-filtered .pdb files are now ready for use in structure-aware mutation workflows, including:
+
+🧩 Surface Accessibility Analysis (e.g., via DSSP, PyMOL or custom scripts)
+
+🧠 Binding Interface Prediction
+
+🔬 Protein–Ligand or Protein–Protein Interaction Modeling
+
+📐 Structural Visualization and Mutation Annotation
+
+By filtering irrelevant chains and preserving all structural metadata, this step ensures high accuracy and efficiency in downstream protein structure analysis tools like:
+
+🔬 PyMOL
+🧬 Chimera / ChimeraX
+🔎 PISA (PDBePISA)
+🧱 DSSP / STRIDE
+🧠 Custom ML or Molecular Dynamics pipelines
+
