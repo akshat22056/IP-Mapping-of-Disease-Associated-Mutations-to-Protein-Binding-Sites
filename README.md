@@ -112,3 +112,24 @@ Same-category mutations dominate by volume (~405k total) but still show only ~1.
 Mutations in binding sites are rare — consistent with their functional importance.
 When mutations do occur in binding regions, they are more likely to involve charge shifts, which may directly alter molecular binding interfaces (e.g., ligand binding, metal ion coordination, protein-protein interactions).
 Same-category mutations likely represent neutral or tolerated substitutions, while cross-category mutations, especially in binding sites, could indicate pathogenic potential or functional adaptation.
+
+## 🧱 PDB Structural Filtering and Chain Cleanup
+As part of downstream structure-aware mutation mapping and surface accessibility analysis, we integrated PDB-level structural filtering:
+
+## 🧬 Workflow Summary
+For each UniProt-mapped gene, we retrieved all associated PDB structures and chain annotations via UniProt’s structure section.
+
+## A dedicated CSV was created containing:
+GENE_NAME, UniProt_ID, PDB_ID, CHAIN, RESIDUE_RANGE
+PDB files (~24k) were bulk-downloaded using the RCSB PDB API.
+Chains were filtered using our chain list — we removed all chains not present in UniProt annotations, keeping other lines (REMARK, HELIX, etc.) untouched.
+
+## ✅ Example:
+If UniProt ID Q9HB90 maps to PDB 1a00 with chains B and D, we retained only ATOM/HETATM lines corresponding to chains B and D.
+
+## 🧪 Ready for Surface Analysis
+Filtered .pdb files are now ready for surface accessibility or molecular interaction studies using tools like:
+PyMOL
+Chimera
+PISA
+DSSP
